@@ -1,0 +1,5 @@
+.venv/
+.bonsai/*
+!.bonsai/Bonsai.config
+__pycache__/
+*.layout
